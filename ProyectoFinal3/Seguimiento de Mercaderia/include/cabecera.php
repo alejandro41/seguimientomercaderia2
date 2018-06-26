@@ -1,0 +1,2 @@
+<!DOCTYPE html>
+<h1 class="span">SEGUIMIENTO DE MERCADERIA</h1>
